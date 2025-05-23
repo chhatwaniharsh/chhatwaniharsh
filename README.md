@@ -1,7 +1,7 @@
 ## ![github-header-image](https://github.com/user-attachments/assets/a482db61-b23e-4e4c-a609-6ae8b7e720a3)
 
 <h3 align="center">A passionate frontend and backend developer from India</h3>
-<p align="left">
+<p align="center">
 With a strong foundation in Python and Django, I specialize in developing both scalable backend systems and dynamic frontend interfaces using HTML, CSS, JavaScript, and React. I enjoy building designing user-friendly web applications, and continuously exploring new tools and frameworks to stay ahead in full-stack development. Whether working on personal projects or collaborating with teams, I aim to deliver clean, maintainable, and impactful code.
 </p>
 <h3 align="left">Connect with me:</h3>
