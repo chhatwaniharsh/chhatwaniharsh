@@ -24,3 +24,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+  <h3 align="center">“Programming isn’t about what you know; it’s about what you can figure out.”
+— Chris Pine
+</h3>
