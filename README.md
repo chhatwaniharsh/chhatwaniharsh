@@ -1,4 +1,4 @@
-## Hi there 👋
+## ![github-header-image](https://github.com/user-attachments/assets/a482db61-b23e-4e4c-a609-6ae8b7e720a3)
 
 <h1 align="center">Hi 👋, I'm Harsh Chhatwani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
