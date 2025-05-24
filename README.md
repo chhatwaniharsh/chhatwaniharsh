@@ -41,6 +41,6 @@ With a strong foundation in <strong>Python</strong> and <strong>Django</strong>,
 <p align="center"><em>"Programming isn’t about what you know; it’s about what you can figure out."</em><br>— Chris Pine</p>
 
 <div align="center">
-  <img src="https://media.tenor.com/nu9XqB4pQGsAAAAC/line-sticker-thank-you-sticker.gif" alt="Thank You" />
+  <img src="https://media.tenor.com/nu9XqB4pQGsAAAAC/line-sticker-thank-you-sticker.gif" alt="Thank You" height="150" width="150" />
 </div>
 
