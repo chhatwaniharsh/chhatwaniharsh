@@ -3,7 +3,7 @@
 <h3 align="center">Frontend & Backend Developer in Python</h3>
 
 <p align="center">
-With a strong foundation in <strong>Python</strong> and <strong>Django</strong>, I specialize in building scalable backend systems and dynamic frontend interfaces using <strong>HTML</strong>, <strong>CSS</strong> and <strong>JavaScript</strong>. I enjoy designing intuitive user experiences, building clean RESTful APIs, and exploring modern tools and frameworks to stay ahead in full-stack development. Whether working solo or with teams, I try to write code that is clean, maintainable, and impactful.
+With a strong foundation in <strong>Python</strong> and <strong>Django</strong>, I specialize in creating scalable backend infrastructure and dynamic frontend interfaces with HTML, CSS and JavaScript. I like creating simple user experiences, constructing clean RESTful APIs, and discovering contemporary tools and frameworks to remain at the forefront of full-stack development. Solo or in teams, I attempt to write code that is clean, sustainable, and powerful.
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harsh450979&label=Profile%20views&color=0e75b6&style=flat" alt="harsh450979" /> </p>
