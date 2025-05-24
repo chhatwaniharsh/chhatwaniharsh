@@ -8,8 +8,6 @@ With a strong foundation in <strong>Python</strong> and <strong>Django</strong>,
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh450979&label=Profile%20views&color=0e75b6&style=flat" alt="harsh450979" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh450979" alt="harsh450979" /></a> </p>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/chhatwaniharsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chhatwaniharsh" height="30" width="40" /></a>
@@ -33,7 +31,7 @@ With a strong foundation in <strong>Python</strong> and <strong>Django</strong>,
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh450979&show_icons=true&locale=en&layout=compact" alt="harsh450979" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh450979&show_icons=true&locale=en&layout=compact" alt="harsh450979" /></p>
 
 
 <h3 align="center">💬 Favorite Quote</h3>
