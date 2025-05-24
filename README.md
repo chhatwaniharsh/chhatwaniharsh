@@ -1,6 +1,6 @@
 ## ![github-header-image](https://github.com/user-attachments/assets/a482db61-b23e-4e4c-a609-6ae8b7e720a3)
 
-<h3 align="center">Frontend & Backend Developer from India 🇮🇳</h3>
+<h3 align="center">Frontend & Backend Developer in Python</h3>
 
 <p align="center">
 With a strong foundation in <strong>Python</strong> and <strong>Django</strong>, I specialize in building scalable backend systems and dynamic frontend interfaces using <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, and <strong>React</strong>. I enjoy designing intuitive user experiences, building clean RESTful APIs, and exploring modern tools and frameworks to stay ahead in full-stack development. Whether working solo or with teams, I strive to write code that is clean, maintainable, and impactful.
