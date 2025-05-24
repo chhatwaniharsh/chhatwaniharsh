@@ -6,7 +6,7 @@
 With a strong foundation in <strong>Python</strong> and <strong>Django</strong>, I specialize in building scalable backend systems and dynamic frontend interfaces using <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, and <strong>React</strong>. I enjoy designing intuitive user experiences, building clean RESTful APIs, and exploring modern tools and frameworks to stay ahead in full-stack development. Whether working solo or with teams, I strive to write code that is clean, maintainable, and impactful.
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh450979&label=Profile%20views&color=0e75b6&style=flat" alt="harsh450979" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=harsh450979&label=Profile%20views&color=0e75b6&style=flat" alt="harsh450979" /> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -34,8 +34,13 @@ With a strong foundation in <strong>Python</strong> and <strong>Django</strong>,
 
 <br></br>
 <h3 align="center">📝 Most Used Languages:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh450979&show_icons=true&locale=en&layout=compact" alt="harsh450979" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh450979&show_icons=true&locale=en&layout=compact" alt="harsh450979" /></p>
 
 <br></br>
 <h3 align="center">💬 Favorite Quote</h3>
 <p align="center"><em>"Programming isn’t about what you know; it’s about what you can figure out."</em><br>— Chris Pine</p>
+
+<div align="center">
+  <img src="https://media.tenor.com/nu9XqB4pQGsAAAAC/line-sticker-thank-you-sticker.gif" alt="Thank You" />
+</div>
+
