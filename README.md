@@ -8,18 +8,15 @@ With a strong foundation in <strong>Python</strong> and <strong>Django</strong>,
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
-<!-- Add your links here -->
-<p align="left">
-<!-- Example: 
-<a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30" height="30" alt="LinkedIn"/></a> 
--->
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/chhatwaniharsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chhatwaniharsh" height="30" width="40" /></a>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages & Tools:</h3>
-<p align="left">
+<h3 align="center">🛠️ Languages & Tools:</h3>
+<p align="center">
   <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
   <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
@@ -34,6 +31,12 @@ With a strong foundation in <strong>Python</strong> and <strong>Django</strong>,
 </p>
 
 ---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh450979&show_icons=true&locale=en&layout=compact" alt="harsh450979" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh450979&show_icons=true&locale=en" alt="harsh450979" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh450979&" alt="harsh450979" /></p>
 
 <h3 align="center">💬 Favorite Quote</h3>
 <p align="center"><em>"Programming isn’t about what you know; it’s about what you can figure out."</em><br>— Chris Pine</p>
