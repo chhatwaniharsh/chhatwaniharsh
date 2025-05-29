@@ -34,7 +34,7 @@ With a strong foundation in <strong>Python</strong> and <strong>Django</strong>,
 
 <br></br>
 <h3 align="center">📝 Most Used Languages:</h3>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh450979&show_icons=true&locale=en&layout=compact" alt="harsh450979" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chhatwaniharsh&show_icons=true&locale=en&layout=compact" alt="chhatwaniharsh" /></p>
 
 <br></br>
 <h3 align="center">💬 Favorite Quote</h3>
