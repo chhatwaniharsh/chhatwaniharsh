@@ -10,6 +10,7 @@ With a strong foundation in <strong>Python</strong> and <strong>Django</strong>,
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
+<p>Email ID : <a href="mailto:harshchhatwani34250@gmail.com">harshchhatwani34250@gmail.com</a></p>
 <a href="https://linkedin.com/in/chhatwaniharsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chhatwaniharsh" height="80" width="100" /></a>
 </p>
 
